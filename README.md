@@ -1,4 +1,4 @@
-# Breast Cancer Classification using Decision Trees (Wisconsin WBC Dataset)
+# Breast Cancer Classification using Decision Trees (WBC Dataset)
 
 This project focuses on building, evaluating, and visualizing a **Decision Tree Classifier** to predict breast cancer diagnosis (Malignant or Benign) using the **Wisconsin Breast Cancer (WBC) dataset**. The work includes complete preprocessing, model training, performance evaluation, cross-validation, feature importance analysis, decision-boundary visualization, tree visualization, and prediction on new samples.
 
